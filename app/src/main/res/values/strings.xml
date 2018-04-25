@@ -3,4 +3,9 @@
     <string name="bg_Lesons">Уроци</string>
     <string name="bg_words">Думи</string>
     <string name="bg_practice">Практика</string>
+    <string name="general_word_goup_title">Общи</string>
+    <string name="athome_word_group_title">Вкъщи</string>
+    <string name="outside_word_group_title">Навън</string>
+    <string name="sport_word_group_title">Спорт</string>
+    <string name="word_group_title">Групи думи</string>
 </resources>
