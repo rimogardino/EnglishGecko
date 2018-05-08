@@ -13,7 +13,7 @@
         android:layout_height="wrap_content"
         android:layout_width="match_parent"
         android:layout_weight="1"
-        android:background="@android:color/transparent"
+
         android:text="@string/bg_Lesons"
         android:textSize="30sp"
         />
@@ -21,20 +21,19 @@
 
     <Button
         android:id="@+id/btn_words"
-        android:layout_height="wrap_content"
         android:layout_width="match_parent"
+        android:layout_height="wrap_content"
         android:layout_weight="1"
-        android:background="@android:color/transparent"
+
+        android:onClick="openWordGroupsActivity"
         android:text="@string/bg_words"
-        android:textSize="30sp"
-        />
+        android:textSize="30sp" />
 
     <Button
         android:id="@+id/btn_practice"
         android:layout_height="wrap_content"
         android:layout_width="match_parent"
         android:layout_weight="1"
-        android:background="@android:color/transparent"
         android:text="@string/bg_practice"
         android:textSize="30sp"
         />
